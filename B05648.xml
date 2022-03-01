@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation for calling out heretors, and requiring the Flanders officers, and other officers imployed since His Majesties accession to the crown, to come to Edinburgh.</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05648</idno>
+            <idno type="STC">Wing S1852</idno>
+            <idno type="STC">ESTC R216788</idno>
+            <idno type="EEBO-CITATION">53299286</idno>
+            <idno type="OCLC">ocm 53299286</idno>
+            <idno type="VID">180018</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05648)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180018)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2810:43)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation for calling out heretors, and requiring the Flanders officers, and other officers imployed since His Majesties accession to the crown, to come to Edinburgh.</title>
+                  <author>Scotland. Privy Council.</author>
+                  <author>Scotland. Sovereign (1694-1702 : William II)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heirs and successors of Andrew Anderson ...,</publisher>
+                  <pubPlace>Edinburgh, :</pubPlace>
+                  <date>Anno Dom. 1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Initial letter.</note>
+                  <note>Intentional blank spaces in text.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  Politics and government --  1689-1745 --  Sources.</term>
+               <term>Scotland --  History --  1689-1745 --  Sources.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:180018:1" rendition="simple:additions"/>
+            <head>
+               <hi>A PROCLAMATION</hi> For Calling out of the Heretors, and Requiring the <hi>Flanders</hi> Officers, and other Officers im<g ref="char:EOLhyphen"/>ployed ſince His Majeſties Acceſſion to the Crown, to come to <hi>Edinburgh.</hi>
+            </head>
+            <opener>
+               <signed>
+                  <hi>
+                     <seg rend="decorInit">W</seg>ILLIAM</hi> by the Grace of GOD, King of <hi>Great-Britain, France,</hi> and <hi>Ireland,</hi> Defender of the Faith,</signed>
+               <salute>To Our Lyon King at Arms, and his Brethren, Heraulds, Macers of Our Privy Council, Purſevants Meſſengers at Arms, Our Sheriffs in that part, conjunctly and ſeverally, ſpecially conſtitute, Greeting:</salute>
+            </opener>
+            <p>Foraſmuch as by repeated Advertiſements, we are informed of an Invaſion of Barbarous and Bloody Papiſts, Deſigned from <hi>France</hi> upon this Our antient King<g ref="char:EOLhyphen"/>dom, whereby it may become the Seat of a Bloody War: For preventing whereof, and Defeating that Deſign of Our Enemies, We have already, with Advice of Our Privy Council, Emitted and Publiſhed fundry Proclamations and Orders for put<g ref="char:EOLhyphen"/>ting the Countrey in a Poſture of Defence; and finding it further neceſſary for the effectual Repreſſing any ſuch Invaſion, whereſoe<g ref="char:EOLhyphen"/>ver it may happen to be within this Our antient Kingdom, that the Heretors who have qualified themſelves according to Law, ſhould be in readines with their beſt Horſes and Arms, to attend Our Hoſt wherever they ſhall be imployed for Our Service upon the pre<g ref="char:EOLhyphen"/>ſent Exigence. Therefore, We with the Advice of the Lords of Our Privy Council, Require and Command all the Heretors with<g ref="char:EOLhyphen"/>in the Shires after-mentioned, who have, or will qualifie themſelves according to Law, by Swearing the Oath of Allegiance, and Subſcribing the ſame with the Aſſurance to Us, and the qualified Tutors and Curators of ſuch as are Minors, to ſend for their ſaid Pupil or Minor, a ſufficient Man and Horſe well Armed, who with the ſaids qualified Heretors, with their beſt Horſe and Arms, are to meet and Rendezvouz for the Shires under-written, upon the Days, at the Places, and to be Commanded by the Officers after<g ref="char:EOLhyphen"/>ſpecified, <hi>viz.</hi> The Heretors and theſe ſent out for Minors within the Shire of <hi>Edinburgh,</hi> upon the Links of <hi>Leith</hi> the twelfth day of <hi>March</hi> current: The Heretors and others foreſaids for the Shire of <hi>Linlithgow,</hi> at <hi>Evan-Bridge</hi> the ſaid day: The Heretors and o<g ref="char:EOLhyphen"/>thers foreſaids of the Shire of <hi>Haddington,</hi> at <hi>Beinstoun-Muir</hi> the day foreſaid: The Heretors and others foreſaids of the Shire of <hi>Ber<g ref="char:EOLhyphen"/>mick,</hi> at <hi>Fogo-Muir</hi> the day foreſaid: The Heretors of the Shire of <hi>Selkirk</hi> and others foreſaids, at the Town of <hi>Selkirk,</hi> the ſaid day: The Heretors of the Shire of <hi>Peebles</hi> and others foreſaids, at <hi>Peebles</hi> the day foreſaid: The Heretors of the Shires of <hi>Fife</hi> and <hi>Kinroſs,</hi> and others foreſaids, at <hi>Edins-Muir</hi> the ſaid day: The Heretors of the Shire of <hi>Lanerk</hi> and others foreſaids, at <hi>Lanerk</hi> and <hi>Hamiltonn</hi> the day foreſaid: The Heretors of the Shire of <hi>Dumbartoun</hi> and others foreſaids, at <hi>Dumbartoun</hi> the ſaid day: The Heretors and others foreſaids of the Shire of <hi>Renfrew,</hi> at <hi>Renfrew-Muir</hi> the day foreſaid; The Heretors and others foreſaids of the Shire of <hi>Wigtoun</hi> and Stewar<g ref="char:EOLhyphen"/>try of <hi>Kirkcudbright</hi> at <hi>Glenluce</hi> the day foreſaid all at ten Hours in the Forenoon; and the Heretors of the Shire of <hi>Air,</hi> and others foreſaids, at the Burgh of <hi>Air</hi> the ſaid day. And We with Advice foreſaid Require and Command, the Commanders of the ſaids He<g ref="char:EOLhyphen"/>retors <hi>reſpective,</hi> to make Liſts of ſuch as do appear at the ſaid Rendenzvouz, and to report their Names, and the condition of their Horſe and Arms, to Our Privy Council, with all poſſible diligence. And We with Advice foreſaid, hereby Nominat and Appoint the perſons after-named, to have the Command of the Heretors within the reſpective Shires, and who ſhall Rendezvouz and keep them to<g ref="char:EOLhyphen"/>gether, during the ſpace often Days, until they ſhall be diſpoſed of by furder Orders, directed by Us or Our Privy Council to them there<g ref="char:EOLhyphen"/>anent, <hi>Viz.</hi> the Laird of <hi>Kimerghame</hi> to Command the Heretors of the Shire of Berwick. The Laird of <hi>Stevinſon</hi> younger theſe of the Shire of <hi>Haddingtoun. Craig</hi> of <hi>Riccartoun</hi> theſe of the Shire of <hi>Edinburgh,</hi> Mr. <hi>Henry Balfour</hi> of <hi>Denbug</hi> theſe of the Shires of <hi>Fife</hi> and <hi>Kinroſs. Lawſon</hi> of <hi>Cairnmoor</hi> theſe of the Shire of <hi>Peebles. Cornwall</hi> of <hi>Bonhard</hi> theſe of the Shire of <hi>Linlithgow. Scot</hi> of <hi>Gilmenſclengh</hi> theſe of the Shire of <hi>Selkirk.</hi> The Laird of <hi>Cleghorn</hi> elder, and <hi>Hamilton</hi> of <hi>Arkenhead</hi> theſe of the Shire of <hi>Lanerk Muir</hi> of <hi>Glanderſtoun</hi> theſe of the Shire of <hi>Renfrew. Cra<g ref="char:EOLhyphen"/>furd</hi> of <hi>Kilbirnie</hi> theſe of the Shire of <hi>Air. Howſtoun</hi> of that Ilk theſe of the Shire of <hi>Dumbartoun.</hi> Sir <hi>William Mack<g ref="char:EOLhyphen"/>dowgal</hi> of <hi>Gartland</hi> theſe of the Shire of <hi>Wigtoun</hi> and Stewartry of <hi>Kirkcudbright.</hi> And We conſidering, that at preſent, there are fundry Officers and others belonging to Our Army in <hi>Flanders</hi> com'd over to, and diſperſed through this Kingdom, for the better making up the Recruits neceſſary to the Regiments where they ſerve, and that they may be very uſeful at this preſent Exigence if Imployed upon the occaſions and in the places where the ſaid intended invaſion may happen; as alſo, ſeverals Who have been imployed heretofore as Officers in Our Service, who are now living in ſeveral places of the Country out of Imployment, may be very ſteadable at this Juncture, in modeling and otherways ordering ſuch Forces as the Country ſhall affoord to oppoſe the foreſaid Invaſion. Therefore We with Advice of the Lords of Our Privy Council, Require and Command all the Officers, and others belonging to Our Armie in <hi>Flanders</hi> now within this Kingdom, and all others who have been Imployed as Officers in Our Service heretofore, and now out of Imployment within this Kingdom with all poſſible Diligence to haſten and repair to the Town of <hi>Edinburgh,</hi> and upon their Arival there immediatly to give up their Names to Our Privy Council, or to Sir <hi>Thomas Livingſton,</hi> Commander in Chief of Our Forces within this Kingdom, to the effect they may be Employed in ſuch Service, and put to ſuch Commands as ſhall be found Neceſſar, and expedient for the Advantage and Securitie of the Go<g ref="char:EOLhyphen"/>vernment; and Supreſſing the Attempts of Our Enemies by this intended Invaſion. OUR WILL IS HEREFORE, and We Charge you Strictly, and Command, that incontinent theſe our Letters ſeen, ye paſs to the Mercat-Croſs of <hi>Edinburgh,</hi> and to the Mercat-Croſſes of the remnant Head-Burghs of the ſeveral Shires and Stewartries within this Kingdom; And there in our Name and Authority, make Intimation hereof, that none pretend Ignorance; And appoints Our Solicitor to tranſmit Printed Copies hereof, to the Sheriff and Stewart-Clerks of the haill Sheriffdoms and Stewartries within this Kingdom, with Copies to be tranſ<g ref="char:EOLhyphen"/>mitted by the ſaid Sheriff and Stewart-Clerks, to the Miniſters of the ſeveral Paroches within their Bounds, and Ordains the Sheriffs and Stewart Clerks, to cauſe Publiſh this preſent Proclamation at the reſpective Mercat-Croſſes, upon the the firſt Mercat<g ref="char:EOLhyphen"/>day after it ſhall come to their hands; And appoints the Miniſters of the ſeveral Paroches to cauſe Intimat this Proclamation at their Paroch-Churches, upon the Forenoon after Sermon, the firſt <hi>LORDS</hi> Day immediately after the ſame ſhall come to their hands. And Ordains theſe Preſents to be Printed.</p>
+            <closer>
+               <dateline>Given under Our Signet at <hi>Edinburgh,</hi> 
+                  <date>the Sixth Day of <hi>March,</hi> And of Our Reign the ſeventh Year, 1696.</date>
+               </dateline>
+               <signed>Per Actum Dominorum Secreti Concilii.
+<hi>GLIB. ELIOT,</hi> Cls. Sti. Concilii.</signed>
+            </closer>
+            <closer>God Save the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heirs and Succeſſors of <hi>Andrew Anderſon,</hi> Printer to His Moſt Excellent Majeſty, <hi>Anno DOM.</hi> 1696</p>
+         </div>
+      </back>
+   </text>
+</TEI>
